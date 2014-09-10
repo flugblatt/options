@@ -1,4 +1,4 @@
-package com.example.options;
+package com.example.options.category;
 
 import android.os.Bundle;
 import android.app.Fragment;
@@ -7,6 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.example.options.R;
+import com.example.options.R.id;
+import com.example.options.R.layout;
 import com.example.options.dummy.DummyContent;
 
 /**

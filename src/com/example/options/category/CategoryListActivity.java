@@ -1,4 +1,8 @@
-package com.example.options;
+package com.example.options.category;
+
+import com.example.options.R;
+import com.example.options.R.id;
+import com.example.options.R.layout;
 
 import android.content.Intent;
 import android.os.Bundle;

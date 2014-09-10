@@ -39,8 +39,6 @@ public class BrochuresFragmentContainer extends Fragment{
 		ActionBar actionBar = ((ActionBarActivity) getActivity()).getSupportActionBar() ;
 		mTabsAdapter = new TabsAdapter((ActionBarActivity) getActivity(), mPager);
 		mTabsAdapter.addTab(actionBar.newTab().setText("Kaufland"), KauflandFragment.class, null);
-		mTabsAdapter.addTab(actionBar.newTab().setText("Rewe"), ReweFragment.class, null);
-		mTabsAdapter.addTab(actionBar.newTab().setText("Aldi"), AldiFragment.class, null);
 
 		return rootView;
 	}

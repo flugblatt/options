@@ -1,4 +1,4 @@
-package com.example.options;
+package com.example.options.category;
 
 import android.app.Activity;
 import android.os.Bundle;

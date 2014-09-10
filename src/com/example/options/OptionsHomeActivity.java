@@ -8,6 +8,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.example.options.brochures.BrochureListActivity;
+import com.example.options.category.CategoryListActivity;
 import com.example.options.navdrawer.AbstractNavDrawerActivity;
 import com.example.options.navdrawer.NavDrawerActivityConfiguration;
 import com.example.options.navdrawer.NavDrawerAdapter;
