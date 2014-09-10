@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="NavDrawerSectionStyle">
+
+    </style>
+
+    <style name="NavDrawerSectionStyle.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingTop">7dp</item>
+        <item name="android:paddingBottom">7dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="NavDrawerItemStyle">
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+    <style name="NavDrawerItemStyle.TextView">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="NavDrawerLoginStyle">
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+    <style name="NavDrawerLoginStyle.TextView">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="NavDrawerLoginStyle.ProviderTextView">
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
